@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Jatin
 
-<!--
-**jonny14-bro/jonny14-bro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a **growth-oriented developer** passionate about building practical tools in **Python** and **C**, with a focus on **data management, OSINT, and security analysis**. I love refining code for clarity, efficiency, and real-world usability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Engineering student with strong interest in **Cybersecurity & AI**  
+- 💻 Skilled in Python fundamentals: OOP, file I/O, JSON serialization  
+- 🛠 Experienced in exception handling & robust code structure  
+- 📚 Always exploring best practices for readability & maintainability  
+- 🌱 Currently working on: ** OSINT Security Scanner (prototype) **  
+- 🎯 Goal: Build a strong academic + extracurricular profile with leadership & teamwork  
+
+---
+
+## 🧰 Tech Stack
+- **Languages:** Python, C  
+- **Frameworks & Tools:** FastAPI, FAISS, Sentence-Transformers, YOLOv8, OpenCV  
+- **Other Skills:** Git, JSON, CLI utilities, data persistence  
+
+---
+
+
+## 📊 GitHub Stats
+![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonny14-bro&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonny14-bro&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/jatin-kumar-senapati-48b7b636a/) 
+- 📧 Email: jatinsenapati2006@gmail.com
+- 📝 Portfolio: ( not yet available )
+
+---
+
+⭐️ From [Jatin](https://github.com/your-username)
