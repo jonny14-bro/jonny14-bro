@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Jatin
 
 Welcome to my GitHub profile!  
-I'm a **growth-oriented developer** passionate about building practical tools in **Python** and **C**, with a focus on **data management, OSINT, and security analysis**. I love refining code for clarity, efficiency, and real-world usability.
+I'm a **growth-oriented developer** passionate about building practical tools in **Python** and **C**, with a focus on **data management, OSINT, web devlopment and integrating AI assistant ,automation , and security analysis**. I love refining code for clarity, efficiency, and real-world usability.
 
 ---
 
 ## 🚀 About Me
-- 🎓 Engineering student with strong interest in **Cybersecurity & AI**  
+- 🎓 Engineering student with strong interest in **Cybersecurity, web development & AI**  
 - 💻 Skilled in Python fundamentals: OOP, file I/O, JSON serialization  
 - 🛠 Experienced in exception handling & robust code structure  
 - 📚 Always exploring best practices for readability & maintainability  
