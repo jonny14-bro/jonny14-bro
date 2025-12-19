@@ -32,7 +32,7 @@ I'm a **growth-oriented developer** passionate about building practical tools in
 ## 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/jatin-kumar-senapati-48b7b636a/) 
 - 📧 Email: jatinsenapati2006@gmail.com
-- 📝 Portfolio: ( not yet available )
+- 📝 Portfolio: [your-portfolio-link]( https://jonny14-bro.github.io/ )
 
 ---
 
