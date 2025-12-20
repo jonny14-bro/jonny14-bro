@@ -16,7 +16,8 @@ I'm a **growth-oriented developer** passionate about building practical tools in
 ---
 
 ## 🧰 Tech Stack
-- **Languages:** Python, C  
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonny14-bro&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- **Languages:** Python, C , html , CSS 
 - **Frameworks & Tools:** FastAPI, FAISS, Sentence-Transformers, YOLOv8, OpenCV  
 - **Other Skills:** Git, JSON, CLI utilities, data persistence  
 
@@ -25,7 +26,7 @@ I'm a **growth-oriented developer** passionate about building practical tools in
 
 ## 📊 GitHub Stats
 ![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonny14-bro&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonny14-bro&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonny14-bro&layout=compact&theme=radical&langs_count=10)
 
 ---
 
