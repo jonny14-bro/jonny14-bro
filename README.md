@@ -8,18 +8,18 @@ I'm a **growth-oriented developer** passionate about building practical tools in
 ## 🚀 About Me
 - 🎓 Engineering student with strong interest in **Cybersecurity, web development & AI**  
 - 💻 Skilled in Python fundamentals: OOP, file I/O, JSON serialization  
-- 🛠 Experienced in exception handling & robust code structure  
+- 🛠 Experienced in System architecture in programming & robust code structure  
 - 📚 Always exploring best practices for readability & maintainability  
-- 🌱 Currently working on: ** OSINT Security Scanner (prototype) **  
+- 🌱 Currently working on: ** CONTRA_v1: A Multi-Stage Adaptive Local LLM Orchestration Framework for High-Quality Autonomous Generation (prototype) **  
 - 🎯 Goal: Build a strong academic + extracurricular profile with leadership & teamwork  
 
 ---
 
 ## 🧰 Tech Stack
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonny14-bro&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-- **Languages:** Python, C , html , CSS 
-- **Frameworks & Tools:** FastAPI, FAISS, Sentence-Transformers, YOLOv8, OpenCV  
-- **Other Skills:** Git, JSON, CLI utilities, data persistence  
+- **Languages:** Python, C , html , CSS , java
+- **Frameworks & Tools:** FastAPI, FAISS, Sentence-Transformers, YOLOv8, OpenCV, Scikit-learn, Pandas, PyTorch, SciPy, NumPy, TensorFlow 
+- **Other Skills:** Git, JSON, CLI utilities, data persistence, building systematic cli based frameworks, 
 
 ---
 
