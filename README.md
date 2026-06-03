@@ -6,7 +6,7 @@ I'm a **growth-oriented developer** passionate about building practical tools in
 ---
 
 ## 🚀 About Me
-- 🎓 Engineering student with strong interest in **Cybersecurity, web development & AI**  
+- 🎓 Engineering student with strong interest in **Cybersecurity, web development & AI frameworks**  
 - 💻 Skilled in Python fundamentals: OOP, file I/O, JSON serialization  
 - 🛠 Experienced in System architecture in programming & robust code structure  
 - 📚 Always exploring best practices for readability & maintainability  
