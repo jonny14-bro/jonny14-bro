@@ -184,28 +184,20 @@ I'm particularly interested in building systems around:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jonny14-bro&show_icons=true&theme=radical&hide_border=true&count_private=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonny14-bro&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    height="170"
-  />
+  <a href="https://github.com/jonny14-bro">
+    <img src="https://img.shields.io/github/followers/jonny14-bro?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/jonny14-bro?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+  <a href="https://github.com/jonny14-bro?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-View%20Stars-yellow?style=for-the-badge&logo=github" alt="GitHub Stars" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jonny14-bro">
-    <img
-      src="https://img.shields.io/github/followers/jonny14-bro?label=Followers&style=for-the-badge&logo=github"
-      alt="GitHub Followers"
-    />
-  </a>
   <a href="https://github.com/jonny14-bro?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github"
-      alt="Repositories"
-    />
+    <strong>🚀 Explore My Repositories →</strong>
   </a>
 </p>
 
