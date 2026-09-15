@@ -181,11 +181,15 @@ I'm particularly interested in building systems around:
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonny14-bro&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonny14-bro&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jonny14-bro&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonny14-bro&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonny14-bro&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
