@@ -184,12 +184,29 @@ I'm particularly interested in building systems around:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonny14-bro&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonny14-bro&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jonny14-bro&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonny14-bro&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonny14-bro&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <a href="https://github.com/jonny14-bro">
+    <img
+      src="https://img.shields.io/github/followers/jonny14-bro?label=Followers&style=for-the-badge&logo=github"
+      alt="GitHub Followers"
+    />
+  </a>
+  <a href="https://github.com/jonny14-bro?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github"
+      alt="Repositories"
+    />
+  </a>
 </p>
 
 ---
